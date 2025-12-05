@@ -7,8 +7,8 @@
   <name>Blue Nebula</name>
   <developer_name>Blue Nebula Team</developer_name>
   <branding>
-    <color type="primary" scheme_preference="light">#520000</color>
-    <color type="primary" scheme_preference="dark">#240000</color>
+    <color type="primary" scheme_preference="light">#1970c2</color>
+    <color type="primary" scheme_preference="dark">#0a2a48</color>
   </branding>
   <summary>Free agile arena shooter</summary>
   <description>
